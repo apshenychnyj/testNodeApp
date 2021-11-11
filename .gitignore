@@ -1,0 +1,14 @@
+.idea
+.vscode
+.DS_Store
+logs/*
+!.gitkeep
+node_modules/
+.deploy/bundle/*
+.deploy/logs/*
+.deploy/app.json
+.deploy/config.ini
+npm-packages/.npm/*
+deploy-test.sh
+.meteor/.DS_Store
+*.TODO
